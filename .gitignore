@@ -1,0 +1,16 @@
+.*
+_*
+*.fnx
+components
+bower.json
+tmp
+node_modules
+!.gitignore
+!.jshintignore
+!.npmignore
+!.travis.yml
+*.db
+*.fnx
+dist
+npm-debug.log
+src/Gruntfile.js
